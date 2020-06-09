@@ -8,10 +8,10 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Muhammad-Tounsi/Vote-Go-Vue/api/auth"
-	"github.com/Muhammad-Tounsi/Vote-Go-Vue/api/models"
-	"github.com/Muhammad-Tounsi/Vote-Go-Vue/api/responses"
-	"github.com/Muhammad-Tounsi/Vote-Go-Vue/api/utils/formaterror"
+	"github.com/ismail-tijani/Vote-Vue-Go/api/auth"
+	"github.com/ismail-tijani/Vote-Vue-Go/api/models"
+	"github.com/ismail-tijani/Vote-Vue-Go/api/responses"
+	"github.com/ismail-tijani/Vote-Vue-Go/api/utils/formaterror"
 	"github.com/gorilla/mux"
 )
 
