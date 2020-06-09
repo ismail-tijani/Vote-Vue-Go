@@ -1,4 +1,4 @@
-module github.com/Muhammad-Tounsi/Vote-Go-Vue
+module github.com/ismail-tijani/Vote-Vue-Go
 
 go 1.13
 
