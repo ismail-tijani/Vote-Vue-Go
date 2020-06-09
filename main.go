@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Muhammad-Tounsi/Vote-Go-Vue/api"
+import "github.com/ismail-tijani/Vote-Vue-Go/api"
 
 func main() {
 	api.Run()
