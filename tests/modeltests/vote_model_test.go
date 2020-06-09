@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Muhammad-Tounsi/Vote-Go-Vue/api/models"
+	"github.com/ismail-tijani/Vote-Vue-Go/api/models"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 	"gopkg.in/go-playground/assert.v1"
 )
