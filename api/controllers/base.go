@@ -10,7 +10,7 @@ import (
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 
-	"github.com/Muhammad-Tounsi/Vote-Go-Vue/api/models"
+	"github.com/ismail-tijani/Vote-Vue-Go/api/models"
 )
 
 type Server struct {
