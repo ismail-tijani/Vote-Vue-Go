@@ -1,6 +1,6 @@
 package controllers
 
-import "github.com/Muhammad-Tounsi/Vote-Go-Vue/api/middlewares"
+import "github.com/ismail-tijani/Vote-Vue-Go/api/middlewares"
 
 func (s *Server) initializeRoutes() {
 
