@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Muhammad-Tounsi/Vote-Go-Vue/api/controllers"
-	"github.com/Muhammad-Tounsi/Vote-Go-Vue/api/models"
+	"github.com/ismail-tijani/Vote-Vue-Go/api/controllers"
+	"github.com/ismail-tijani/Vote-Vue-Go/api/models"
 	"github.com/jinzhu/gorm"
 	"github.com/joho/godotenv"
 	uuid "github.com/satori/go.uuid"
