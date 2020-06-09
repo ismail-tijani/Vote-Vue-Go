@@ -1,4 +1,4 @@
-# Vote-Go-Vue
+# Vote-Vue-Go
 # Exigences : installation du Node Js, Yarn, Docker et golang
  
 Pour ce faire il faut suivre les étapes suivantes :
